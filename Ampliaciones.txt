@@ -1,0 +1,5 @@
+1- Modo Locura (Dificultad) en este modo el juego va muy rapido y al completar una fila la velocidad no aumenta, si no, que es aleatorio en velocidades muy rapidas.
+
+2-Combo color, Si la fila es del mismo color tiene un bonus de puntos
+
+Pd: Con es ESCAPE puedes pausar dentro del juego.
